@@ -45,7 +45,7 @@ All code, visuals, and insights are fully embedded
 # 📬 Contact
 Mohammad Zaid Anasari
 - [LinkedIn](www.linkedin.com/in/mohammad-zaid-ansari-607529280)
-- [GitHub]()
+- [GitHub](https://github.com/Zaidu19)
 
 # ✅ Summary
 This project demonstrates practical skills in data cleaning, customer segmentation, product analytics, and insight-driven storytelling — ideal for data analyst roles in e-commerce and retail domains.
